@@ -17,19 +17,21 @@
 
 <div align="center">
   
-<h2>My skills 🖥️ </h2>
+<h2>My hobbies 🎮 </h2>
   
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sqlite,vue,angular)](https://skillicons.dev)
+![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
+![EA](https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white)
+![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
 </div>
 
 <div align="center">
   
 <h2>My inspiration 💡 </h2>
-  
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sqlite,vue,angular)](https://skillicons.dev)
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I+had+a+problem+with+my+code+and+I+decided+to+fix+it%2C+now+it+has+a+problem%2C+3+errors+and+12+warnings&oq=I+had+a+problem+with+my+code+and+I+decided+to+fix+it%2C+now+it+has+a+problem%2C+3+errors+and+12+warnings&author=A&nbsp;random&nbsp;wise&nbsp;man)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I+had+a+problem+with+my+code+and+I+decided+to+fix+it%2C+now+it+has+a+problem%2C+3+errors+and+12+warnings&oq=I+had+a+problem+with+my+code+and+I+decided+to+fix+it%2C+now+it+has+a+problem%2C+3+errors+and+12+warnings&author=B)](https://github.com/piyushsuthar/github-readme-quotes)
 
