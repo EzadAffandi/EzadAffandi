@@ -9,9 +9,23 @@
 
 <div align="center">
   
-<h2>My skills</h2>
+<h2>My skills 🖥️ </h2>
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sqlite,vue,angular)](https://skillicons.dev)
 
 </div>
+
+<h2>My skills 🖥️ </h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sqlite,vue,angular)](https://skillicons.dev)
+
+</div>
+
+<h2>My inspiration 💡 </h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sqlite,vue,angular)](https://skillicons.dev)
+
+</div>
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A&author=B)](https://github.com/piyushsuthar/github-readme-quotes)
 
