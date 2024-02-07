@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<h2>Welcome to my Github profile !</h2>
 <!--
 **EzadAffandi/EzadAffandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
