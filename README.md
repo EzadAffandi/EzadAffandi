@@ -1,6 +1,6 @@
-### Hi there 👋
+<h2>Looks like you have found my GitHub profile !</h2>
 
-<h2>Welcome to my Github profile !</h2>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 <!--
 **EzadAffandi/EzadAffandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
