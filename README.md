@@ -15,17 +15,21 @@
 
 </div>
 
+<div align="center">
+  
 <h2>My skills 🖥️ </h2>
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sqlite,vue,angular)](https://skillicons.dev)
 
 </div>
 
+<div align="center">
+  
 <h2>My inspiration 💡 </h2>
   
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sqlite,vue,angular)](https://skillicons.dev)
 
 </div>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=A&author=B)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=I+had+a+problem+with+my+code+and+I+decided+to+fix+it%2C+now+it+has+a+problem%2C+3+errors+and+12+warnings&oq=I+had+a+problem+with+my+code+and+I+decided+to+fix+it%2C+now+it+has+a+problem%2C+3+errors+and+12+warnings&author=B)](https://github.com/piyushsuthar/github-readme-quotes)
 
