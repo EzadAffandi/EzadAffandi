@@ -7,5 +7,11 @@
 <p>Hi, I'm Izzat Affandi and I'm currently studying Computer Science Engineering at Université de Technologie de Belfort Montbéliard in France</p>
 <p>Here's a little bit of interesting informations about me : </p>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<div align="center">
+  
+<h2>My skills</h2>
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,php,sqlite,vue,angular)](https://skillicons.dev)
+
+</div>
 
