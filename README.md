@@ -1,6 +1,7 @@
 <h2>Looks like you have found my GitHub profile !</h2>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-![alt text](hello world.png)
+
+<img src="hello world.png" width="350" title="hover text">
 
 <!--
 **EzadAffandi/EzadAffandi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
