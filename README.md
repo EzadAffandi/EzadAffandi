@@ -4,7 +4,7 @@
 
 <p><i>Image edited using <a href="[canva.com](https://www.canva.com/)">Canva</a></i></p>
 </div>
-<p>Hi, I'm Izzat Affandi and I'm currently studying Computer Science Engineering at Université de Technologie de Belfort Montbéliard in France</p>
+<p>Hi, I'm Izzat Affandi and I'm a Computer Science Engineer graduated with Diplome d'Ingenieur (equivalent to MEng of Computer Science) from Universite de Technologie de Belfort-Montbeliard, France.</p>
 <p>Here's a little bit of interesting informations about me : </p>
 
 <div align="center">
